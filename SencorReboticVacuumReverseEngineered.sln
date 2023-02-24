@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SencorReboticVacuumReverseEngineered", "SencorReboticVacuumReverseEngineered\SencorReboticVacuumReverseEngineered.csproj", "{39C8BACE-8839-42AF-B9A0-848CDA7E6C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39C8BACE-8839-42AF-B9A0-848CDA7E6C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C8BACE-8839-42AF-B9A0-848CDA7E6C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C8BACE-8839-42AF-B9A0-848CDA7E6C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C8BACE-8839-42AF-B9A0-848CDA7E6C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FFF343F-E2DF-4584-9A6B-2C58EB17F545}
+	EndGlobalSection
+EndGlobal
