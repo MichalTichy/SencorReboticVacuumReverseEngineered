@@ -1,4 +1,4 @@
-﻿namespace SencorReboticVacuumReverseEngineered
+﻿namespace SencorReboticVacuumReverseEngineered.Commands.TransitCommands
 {
 	internal abstract record NewTransitCommandBase : TransitCommandBase
 	{

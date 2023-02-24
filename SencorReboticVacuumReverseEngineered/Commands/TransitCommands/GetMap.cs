@@ -1,4 +1,4 @@
-﻿namespace SencorReboticVacuumReverseEngineered
+﻿namespace SencorReboticVacuumReverseEngineered.Commands.TransitCommands
 {
 	internal record GetMap : NewTransitCommandBase
 	{

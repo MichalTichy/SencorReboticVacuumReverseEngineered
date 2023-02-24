@@ -1,4 +1,4 @@
-﻿namespace SencorReboticVacuumReverseEngineered
+﻿namespace SencorReboticVacuumReverseEngineered.Commands.OpCommands
 {
 	public abstract record OldOpCommandBase : OpCommandBase
 	{

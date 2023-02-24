@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace SencorReboticVacuumReverseEngineered
+namespace SencorReboticVacuumReverseEngineered.Commands
 {
 	public abstract record CommandBase
 	{

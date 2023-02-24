@@ -1,6 +1,8 @@
 ﻿using System.Net;
 using System.Net.Sockets;
 using System.Text;
+using SencorReboticVacuumReverseEngineered.Commands;
+using SencorReboticVacuumReverseEngineered.Commands.OpCommands;
 
 namespace SencorReboticVacuumReverseEngineered
 {
